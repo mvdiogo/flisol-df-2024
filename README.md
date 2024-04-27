@@ -1,5 +1,3 @@
-Claro! Vou melhorar o README.md para incluir todas as sintaxes relevantes e também fornecer o link para o arquivo em formato raw. Aqui está a versão atualizada:
-
 # FLISOL-DF-2024: Explorando o Potencial da IA com OLLAMA e LangChain
 
 Este repositório contém os materiais e recursos utilizados na apresentação do FLISOL-DF 2024 sobre como explorar o potencial da Inteligência Artificial com as ferramentas OLLAMA e LangChain.
