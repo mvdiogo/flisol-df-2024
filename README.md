@@ -58,8 +58,8 @@ Certifique-se de ter o Python e o pip instalados em seu sistema. Em seguida, sig
 6. **Instale as LLMs no OLLAMA que você irá usar:**
 
    ```
-   ollama pull llama2
-   ollama pull llama3
+   ollama pull deepseek-r1
+   ollama pull llama3.1
    ollama pull llava
    ollama pull nomic-embed-text
    ```
